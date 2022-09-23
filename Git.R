@@ -13,3 +13,4 @@ y <- ynorm(300)
 =======
 # an alternative develop 
 >>>>>>> alternative-develop
+# dicjks
